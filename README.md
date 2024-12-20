@@ -1,0 +1,2 @@
+# Credit-Risk-Segmentation-Using-Dynamic-FICO-Score-Binning
+This repository performs prediction by calculating the probability of default for a given observations. The intuition behind the usage of maximum likelihood estimation is that it is a common method for estimating the parameters of a statistical model. In this case, the parameters are the probabilities of default for different sets of observations. 
